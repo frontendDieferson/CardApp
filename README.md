@@ -1,9 +1,8 @@
-# CardApp
+# App Cartão de Visitas.
 Aplicativo criado durante Bootcamp Banco Inter.
 
+![Web 1920 – 1](https://user-images.githubusercontent.com/62387982/128792665-918e45a7-e49a-40c6-91be-6b1e00d3eac5.png)
 
 
 
-![Screenshot_1628550117](https://user-images.githubusercontent.com/62387982/128789742-4c2fd151-a604-4948-af33-79b4c9de140e.png)
 
-![Screenshot_1628550109](https://user-images.githubusercontent.com/62387982/128789753-25439e7e-55dc-4dfa-b764-01edc6a2b436.png)
